@@ -1,0 +1,2 @@
+# TalentBridge (Flask App)
+
